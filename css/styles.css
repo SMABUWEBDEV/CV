@@ -1,4 +1,4 @@
-body {background-color: rgba(0, 255, 255, 0.484) ;
+body {background-color: #E3FDFD;
 
 }
 p {font-family: "Lucida Console", "Courier New", monospace;}
@@ -9,11 +9,10 @@ hr {border-style: none;
     width: 40%;}
 h1 {font-size: 50px;
 }
-div.container {text-align: center;}
-ul.myUL {display: inline-block;
+.myUL {display: inline-block;
     text-align: left;}
 div.form {text-align: center;}
-ol.myOL {display: inline-block;
+.myOL {display: inline-block;
     text-align: left;}
 h3 {font: 1em sans-serif;
 font-size: 30px;}
@@ -21,3 +20,13 @@ font-size: 30px;}
 .body {font-size: 120%;}
 button:hover {background-color: gold;}
 a:hover {background-color: gold;}
+div {background-color: rgba(117, 155, 155, 0.395);}
+.body {text-align: center;}
+.container1 {background-color:#E3FDFD ;
+    text-align: center;}
+.container2 {background-color:#E3FDFD ;
+    text-align: center;}
+.container3 {background-color:#E3FDFD ;
+        text-align: center;}
+.container4 {background-color:#E3FDFD ;
+            text-align: center;}
