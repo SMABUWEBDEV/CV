@@ -19,3 +19,5 @@ h3 {font: 1em sans-serif;
 font-size: 30px;}
 #heading {font-size: 180%;}
 .body {font-size: 120%;}
+button:hover {background-color: gold;}
+a:hover {background-color: gold;}
