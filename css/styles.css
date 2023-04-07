@@ -17,3 +17,5 @@ ol.myOL {display: inline-block;
     text-align: left;}
 h3 {font: 1em sans-serif;
 font-size: 30px;}
+#heading {font-size: 180%;}
+.body {font-size: 120%;}
