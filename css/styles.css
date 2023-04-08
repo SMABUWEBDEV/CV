@@ -1,35 +1,57 @@
 body {background-color: #E3FDFD;
 margin-top: 2px;
 }
-p {font-family: serif;}
+p {font-family: monospace;}
 hr {border-style: none;
     border-top-style: dotted;
     border-color: grey;
     border-width: 5px;
     width: 40%;}
 h1 {font: serif;
-    font-size: 50px;
+    font-size: 40px;
 }
+
 .myUL {display: inline-block;
     text-align: left;}
+
 div.form {text-align: center;}
+
 .myOL {display: inline-block;
     text-align: left;}
-h3 {font: 1em sans-serif;
-font-size: 30px;}
-#heading {font-size: 180%;}
+
+h3 {font-family: 'Montserrat', sans-serif;
+font-size: 30px;
+margin-top: 0;
+margin-bottom: 0;}
+
 .body {font-size: 120%;}
+
+h5 {font-family: 'Inspiration', cursive;
+font-size: 246%;
+margin-top: 0;
+margin-bottom: 0;}
+
 button:hover {background-color: gold;}
+
 a:hover {background-color: gold;}
+
 div {background-color: rgba(32, 112, 225, 0.395);}
+
 .body {text-align: center;}
+
 .container1 {background-color:#E3FDFD ;
     text-align: center;}
+
 .container2 {background-color:#E3FDFD ;
     text-align: center;}
+
 .container3 {background-color:#E3FDFD ;
         text-align: center;}
+
 .container4 {background-color:#E3FDFD ;
             text-align: center;}
+            
 img.logo {padding-bottom: 40px;
 padding-top: 0;}
+.judul {margin-top: 0px;
+}
