@@ -1,13 +1,14 @@
 body {background-color: #E3FDFD;
 margin-top: 2px;
 }
-p {font-family: "Lucida Console", "Courier New", monospace;}
+p {font-family: serif;}
 hr {border-style: none;
     border-top-style: dotted;
     border-color: grey;
     border-width: 5px;
     width: 40%;}
-h1 {font-size: 50px;
+h1 {font: serif;
+    font-size: 50px;
 }
 .myUL {display: inline-block;
     text-align: left;}
