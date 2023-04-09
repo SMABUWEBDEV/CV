@@ -58,15 +58,16 @@ margin-left: 0;}
 .ul2 {text-align: left;
     line-height: 1.5;}
 
-.html {height: 300px;
-    width: 300px;
-margin-right: 10px;
+.html {height: 270px;
+    width: 270px;
 }   
 
 .award {height: 270px;
     width: 270px;
-margin-right: 10px;
 }  
 
-.skill-row {margin-left: 300px;}
-.pro {margin-top: ;}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
